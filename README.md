@@ -4,10 +4,6 @@
 Software Engineering Student | Backend Developer | Full-stack Learner
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+real-world+web+applications;Learning+C%23%2C+ASP.NET+Core%2C+TypeScript%2C+SQL+Server+and+PostgreSQL;Passionate+about+Backend%2C+API%2C+Authentication+and+Database+Design" />
-</p>
-
 ---
 
 ## About Me
