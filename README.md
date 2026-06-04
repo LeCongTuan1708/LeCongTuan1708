@@ -31,10 +31,7 @@ My goal is to become a strong **Full-stack Developer** who can build systems tha
   <a href="mailto:tuanle17082k5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/">
+  <a href="[https://www.facebook.com/](https://www.facebook.com/share/1BLfhzduAy/?mibextid=wwXIfr)">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
@@ -78,7 +75,6 @@ My goal is to become a strong **Full-stack Developer** who can build systems tha
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### Tools And Platforms
@@ -86,6 +82,7 @@ My goal is to become a strong **Full-stack Developer** who can build systems tha
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -95,58 +92,6 @@ My goal is to become a strong **Full-stack Developer** who can build systems tha
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
----
-
-## Featured Projects
-
-### Manga Creation Workflow and Publishing Management System
-
-A system for managing the manga production and publishing workflow, including user roles, series, chapters, assistant tasks, feedback, publishing schedules, reader voting, and leaderboard ranking.
-
-**Main Features:**
-
-- Role-based authentication and authorization
-- Series and chapter management
-- Assistant task assignment and submission
-- Feedback between users
-- Reader voting and leaderboard system
-- File upload integration with Cloudinary
-
-**Tech Stack:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL, MailKit, Docker Hub, DBeaver, JWT Authentication, Cloudinary
-
----
-
-### SmartCenter
-
-A real-world backend project focused on API design, authentication, data management, and deployment using Docker Hub.
-
-**Main Focus:**
-
-- Backend API development
-- Authentication and authorization
-- Database design with PostgreSQL
-- API testing and documentation
-- Deployment workflow using Docker Hub
-- Database management with DBeaver
-
-**Tech Stack:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL, MailKit, Docker Hub, DBeaver, JWT Authentication, Cloudinary
-
----
-
-### TetPee
-
-A practice project for learning backend development, order management, payment flow, email template, and QR payment testing.
-
-**Main Focus:**
-
-- Order management
-- Payment flow
-- Email handling
-- Backend service structure
-- API development practice
-
-**Tech Stack:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL, MailKit, DBeaver, JWT Authentication, Cloudinary
 
 ---
 
