@@ -12,7 +12,7 @@ Software Engineering Student | Backend Developer | Full-stack Learner
 
 ## About Me
 
-I'm a Software Engineering student focused on building real-world web applications using **C#**, **ASP.NET Core**, **SQL Server**, and **PostgreSQL**.
+I'm a Software Engineering student focused on building real-world web applications using **C#**, **ASP.NET Core**, **PostgreSQL**.
 
 I enjoy designing backend systems, working with **RESTful APIs**, **authentication**, **authorization**, **database design**, and clean project architecture.
 
