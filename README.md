@@ -98,14 +98,6 @@ My goal is to become a strong **Full-stack Developer** who can build systems tha
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeCongTuan1708&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeCongTuan1708&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeCongTuan1708&theme=tokyonight&hide_border=true" />
 </p>
 
