@@ -16,7 +16,7 @@ Currently, I'm working on projects such as **Manga Creation Workflow Management 
 
 My goal is to become a strong **Full-stack Developer** who can build systems that are practical, maintainable, and scalable.
 
----------
+----------
 
 ## Socials
 
