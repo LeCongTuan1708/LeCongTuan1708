@@ -95,7 +95,7 @@ My goal is to become a strong **Full-stack Developer** who can build systems tha
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=LeCongTuan1708&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=LeCongTuan1708&theme=tokyonight&hide_border=true&v=2"
     alt="GitHub Streak"
   />
 </p>
